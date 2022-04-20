@@ -1,0 +1,7 @@
+/home/likha/Documents/cours du soir/CS50/week3/runoff/runoff/target/debug/deps/array2d-d463b958f780bad2.rmeta: /home/likha/.cargo/registry/src/github.com-1ecc6299db9ec823/array2d-0.2.1/src/lib.rs
+
+/home/likha/Documents/cours du soir/CS50/week3/runoff/runoff/target/debug/deps/libarray2d-d463b958f780bad2.rlib: /home/likha/.cargo/registry/src/github.com-1ecc6299db9ec823/array2d-0.2.1/src/lib.rs
+
+/home/likha/Documents/cours du soir/CS50/week3/runoff/runoff/target/debug/deps/array2d-d463b958f780bad2.d: /home/likha/.cargo/registry/src/github.com-1ecc6299db9ec823/array2d-0.2.1/src/lib.rs
+
+/home/likha/.cargo/registry/src/github.com-1ecc6299db9ec823/array2d-0.2.1/src/lib.rs:
